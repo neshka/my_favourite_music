@@ -89,7 +89,26 @@ iframe
     border-width: 1px;*/
     font-family: 'Old Standard TT', serif;
     text-align: center;
+    color: #DAA520;
+}
 
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }
 
 .right
