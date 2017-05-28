@@ -109,11 +109,11 @@ a {
     color: #87CEFA;
 }
 
-a:hover {
+h3 a:hover {
     color: yellow;
 }
 
-.right
+h3 .right
 {
 	width: 490px;
 	height: 7950px;
