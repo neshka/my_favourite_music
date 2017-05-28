@@ -45,12 +45,12 @@ div
 
 h3
 {
-	margin-top: 50px;
+	margin-top: 40px;
 }
 
 iframe
 {
-	margin: 10px;
+	margin-right: 60px;
 	padding: 10px;
 }
 
@@ -110,6 +110,7 @@ a:hover {
 a:active {
     color: blue;
 }
+
 
 .right
 {
